@@ -25,8 +25,8 @@
 
 ## Resumo
 
-O objetivo deste grupo é desenvolver um carrinho controlado remotamente, equipado com diversas funcionalidades avançadas. O controle à distância poderá ser realizado tanto via Bluetooth quanto por meio de um controle convencional, oferecendo flexibilidade e conveniência ao usuário.
-O carrinho será projetado para executar movimentos completos, podendo se deslocar para frente e para trás, bem como virar para ambos os lados com precisão. Além dessas capacidades de navegação, o carrinho incluirá uma função integrada de reprodução de músicas, proporcionando uma experiência mais envolvente e divertida. Adicionalmente, será implementado um modo de aceleração mais potente, permitindo que o carrinho atinja maiores velocidades e oferecendo um desempenho aprimorado para os entusiastas de veículos controlados remotamente.
+O projeto Cute Arduine Automotive consiste no desenvolvimento de um carrinho controlado remotamente, capaz de operar tanto via Bluetooth quanto por controle convencional. O veículo
+realiza todos os movimentos de deslocamento e direção, conta com reprodução de músicas integrada e possui um modo de aceleração mais potente, que garante maior velocidade e desempenho. Além disso, o carrinho é equipado com LEDs de freio e de seta, aumentando sua funcionalidade e realismo.
 
 # Código (do arduino ou esp32)
 
