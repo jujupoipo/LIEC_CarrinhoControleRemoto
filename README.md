@@ -25,8 +25,7 @@
 
 ## Resumo
 
-O projeto Cute Arduine Automotive consiste no desenvolvimento de um carrinho controlado remotamente, capaz de operar tanto via Bluetooth quanto por controle convencional. O veículo
-realiza todos os movimentos de deslocamento e direção, conta com reprodução de músicas integrada e possui um modo de aceleração mais potente, que garante maior velocidade e desempenho. Além disso, o carrinho é equipado com LEDs de freio e de seta, aumentando sua funcionalidade e realismo.
+O projeto Cute Arduine Automotive consiste no desenvolvimento de um carrinho controlado remotamente por meio de um aplicativo criado no MIT App Inventor, utilizando conexão via Bluetooth. O veículo realiza todos os movimentos de deslocamento e direção, reproduz musicas utilizando um buzzer e possui um modo de aceleração 5v junto a uma Ponte H para o controle de direção, que garante maior velocidade e desempenho. Além disso, é equipado com LEDs de freio e de seta, aumentando sua funcionalidade e realismo.
 
 # Código (do arduino ou esp32)
 
